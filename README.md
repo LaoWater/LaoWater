@@ -23,7 +23,7 @@ i've began to heal and understand chronic diseases of the Digestive system, Emot
 Programming languages became pure channels for expressing algorithms.
 
 Just as the meaning of life is to be found beyond words,
-So does the World Of Programming weigh in my heart.
+So does the World Of Programming weighs in my heart.
 Beyond programming languages.
 
 **Most of my open-source projects are aimed towards making One life easier, healthier, more connected.**
