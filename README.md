@@ -10,7 +10,7 @@ I Returned to my childhood passion - The World Of Computers - but with a complet
 
 Fears alchemized into curiosities.
 Fails into treasured lessons of the past.
-Inneficient, jumping around Mind into a Clear, Focused, Content Mind.
+An Inneficient, jumping around Mind -> into a Clear, Focused, Content Mind.
 
 I've spent countless nights learning - amazed how the Computer World mirrors the Human Mind - in living experiences rather than in thoery & words.
 After taking the Harvard CS50 course to refresh my knowledge, i was drawned towards the **AI Revolution: The Neural Networks.**
@@ -29,8 +29,8 @@ Beyond programming languages.
 **Most of my open-source projects are aimed towards making One life easier, healthier, more connected.**
 
 ** ⚡ True AI 2 cents: Why are we even comparing & "Fearing" current AI to true AI (The Mind)? **
-Is it not clear that the LLMs are purely a gateway into "THe Knowledge of a Thousand Brothers"?
-Its just complicated patterns putting otgether what knowledge thousands of people put in through words. (Data)
+Is it not clear that the LLMs are purely a gateway into "The Knowledge of a Thousand Brothers"?
+Its just complicated patterns putting together what knowledge thousands of people put in through words. (Data)
 Perfectly simulating the patterns of a Mind through biases, sentiment, etc (Specific "Mind" in a point of time)
 But the Mind is alive and connected to a millions years body.
 Your Mind's biases and sentiments completely change upon the alchemy of the present moment body.
