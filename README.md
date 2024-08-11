@@ -28,7 +28,7 @@ Beyond programming languages.
 
 **Most of my open-source projects are aimed towards making One life easier, healthier, more connected.**
 
-** ⚡ True AI 2 cents: Why are we even comparing & "Fearing" current AI to true AI (The Mind)? **
+** ⚡ My 2 cents regarding True AI(AGI): Why are we even comparing & "Fearing" current AI to true AI (The Mind)? **
 Is it not clear that the LLMs are purely a gateway into "The Knowledge of a Thousand Brothers"?
 Its just complicated patterns putting together what knowledge thousands of people put in through words. (Data)
 Perfectly simulating the patterns of a Mind through biases, sentiment, etc (Specific "Mind" in a point of time)
