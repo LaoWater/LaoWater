@@ -34,7 +34,7 @@ Its just complicated patterns putting together what knowledge thousands of peopl
 Perfectly simulating the patterns of a Mind through biases, sentiment, etc (Specific "Mind" in a point of time)
 But the Mind is alive and connected to a millions years body.
 Your Mind's biases and sentiments completely change upon the alchemy of the present moment body.
-Their connection is beyond words..
+Their connection is beyond words **
 
 
 <!---
