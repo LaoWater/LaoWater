@@ -15,7 +15,7 @@ An Inneficient, jumping around Mind -> into a Clear, Focused, Content Mind.
 I've spent countless nights learning - amazed how the Computer World mirrors the Human Mind - in living experiences rather than in thoery & words.
 After taking the Harvard CS50 course to refresh my knowledge, i was drawned towards the **AI Revolution: The Neural Networks.**
 
-The more i understood the Comptuer World up to the beautiful symphony of 0s and 1s, the more i understood the Mind.
+The more i understood the Computer World up to the beautiful symphony of 0s and 1s, the more i understood the Mind.
 With the power of the Computer World, as knowledge and use, 
 i've began to heal and understand chronic diseases of the Digestive system, Emotional Eating, Biomechanics, Breathing - chronic diseases which i carried around for years, seeking to cure them.
 
