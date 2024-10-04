@@ -26,7 +26,7 @@ Just as the meaning of life is to be found beyond words,
 So does the World Of Programming weighs in my heart.
 Beyond programming languages.
 
-**Most of my open-source projects are aimed towards making One life easier, healthier, more connected.**
+**Most of my open-source projects are aimed towards making One's Life (and implied, the world) Easier, Healthier, more Connected.**
 
 
 <!---
