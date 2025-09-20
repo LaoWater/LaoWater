@@ -1,7 +1,7 @@
 <p align="center">
   <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150 <br>
 <p align="center"
-
+<br>
 # 👋 Hi, I’m @LaoWater 
 
 **I've dedicated my life towards understanding the Mind & Body.**  
