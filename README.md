@@ -2,9 +2,8 @@
   <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150 <br>
 <p align="center"
 <br><br>
-# 👋 Hi, I’m @LaoWater 
 
-**I've dedicated my life towards understanding the Mind & Body.**  
+**Dedicated my life towards understanding the Mind & Body.**  
 The Body to the most intimate of biomechanics level,  
 The Mind to the most intimate of thoughts & neural activations.  
 And their interconnectivity.
